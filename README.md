@@ -28,7 +28,7 @@ These resources enable comparative analysis between correct and incorrect phonet
 
 ## t-SNE Embeddings Visualization
 
-<img width="1422" height="1106" alt="t-SNE representation" src="https://github.com/user-attachments/assets/01e2f2b1-87b9-4ecb-b1a8-6d6e31f1b199" />
+<img width="711" height="553" alt="t-SNE representation" src="https://github.com/user-attachments/assets/01e2f2b1-87b9-4ecb-b1a8-6d6e31f1b199" />
 
 
 ## Citation
