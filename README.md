@@ -26,6 +26,11 @@ Additionally, this resource provides a foundation for developing systems aimed a
 
 These resources enable comparative analysis between correct and incorrect phonetic realizations, supporting experimentation in classification and automatic pronunciation evaluation tasks.
 
+## t-SNE Embeddings Visualization
+
+<img width="1422" height="1106" alt="t-SNE representation" src="https://github.com/user-attachments/assets/01e2f2b1-87b9-4ecb-b1a8-6d6e31f1b199" />
+
+
 ## Citation
 
 If you use this dataset, please cite:
