@@ -44,3 +44,24 @@ If you use this dataset, please cite:
   number={3},
   year={2025}
 }
+```
+
+## License
+
+© 2025 Eric Ramos-Aguilar et al.
+
+This dataset is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** License.
+
+You are free to:
+- Share — copy and redistribute the material  
+- Adapt — remix, transform, and build upon the material  
+
+Under the following terms:
+- Attribution — You must give appropriate credit to the original authors  
+- NonCommercial — You may not use the material for commercial purposes  
+
+This dataset is intended for research and educational use, particularly in the study of low-resource languages.
+
+For more details: https://creativecommons.org/licenses/by-nc/4.0/
+
+For commercial use or special permissions, please contact the authors.
