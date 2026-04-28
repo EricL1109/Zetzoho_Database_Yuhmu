@@ -13,7 +13,8 @@ Additionally, this resource provides a foundation for developing systems aimed a
 ## Authors
 
 - Eric Ramos-Aguilar  
-- J. Arturo Olvera-López  
+- J. Arturo Olvera-López
+- Ivan Olmos-Pineda 
 - Ricardo Ramos-Aguilar
 - Daniel Sánchez-Ruiz
 
@@ -64,4 +65,6 @@ This dataset is intended for research and educational use, particularly in the s
 
 For more details: https://creativecommons.org/licenses/by-nc/4.0/
 
-For commercial use or special permissions, please contact the authors.
+For commercial use or special permissions, please contact the authors:  
+Eric Ramos Aguilar ([eramosa@ipn.mx](mailto:eramosa@ipn.mx))  
+Ricardo Ramos Aguilar ([rramosa@ipn.mx](mailto:rramosa@ipn.mx))
