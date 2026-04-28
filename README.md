@@ -19,8 +19,8 @@ Additionally, this resource provides a foundation for developing systems aimed a
 
 ## Dataset Contents
 
-- Correct pronunciation embeddings: **XXXX samples**  
-- Incorrect pronunciation embeddings: **XXXX samples**  
+- Correct pronunciation embeddings: **5835 samples**  
+- Incorrect pronunciation embeddings: **260 samples**  
 - Audio samples of words with correct pronunciation: **100 samples**  
 - Audio samples of words with incorrect pronunciation: **100 samples**  
 
