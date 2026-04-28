@@ -14,8 +14,8 @@ Additionally, this resource provides a foundation for developing systems aimed a
 
 - Eric Ramos-Aguilar  
 - J. Arturo Olvera-López  
-- Ivan Olmos-Pineda
 - Ricardo Ramos-Aguilar
+- Daniel Sánchez-Ruiz
 
 ## Dataset Contents
 
