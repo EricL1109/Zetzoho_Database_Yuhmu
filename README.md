@@ -1,4 +1,4 @@
-# Yuhmu Pronunciation Dataset
+# Zetzoho-Yuhmu-Speech-Dataset
 
 This repository presents a dataset oriented toward the study of low-resource languages, using the Yuhmu language (an Otomí variant) as a case study. The dataset is designed to support research in automatic speech recognition (ASR) and pronunciation analysis in scenarios with limited linguistic data.
 
