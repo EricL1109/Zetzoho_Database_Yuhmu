@@ -32,7 +32,9 @@ These resources enable comparative analysis between correct and incorrect phonet
 <img width="711" height="553" alt="t-SNE representation" src="https://github.com/user-attachments/assets/01e2f2b1-87b9-4ecb-b1a8-6d6e31f1b199" />
 
 ## Associated Paper
+
 Yuhmu Database: A Corpus of Tonal Speech Lacking Conventional Writing
+
 https://www.cys.cic.ipn.mx/index.php/CyS/article/viewFile/5912/4055
 
 ## Citation
